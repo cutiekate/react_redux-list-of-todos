@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,kBACC,YAAa,CACb,sBAAuB,CACtB,QAGC,iBAAkB,CACnB,QAGC,gBAAiB","file":"main.c15a8169.chunk.css","sourcesContent":[".button_container {\n display: flex;\n justify-content: center;\n }\n\n .header {\n   text-align: center;\n }\n\n .button {\n   margin-left: 10px;\n }\n\n"]}
